@@ -23,9 +23,9 @@ importers:
       autoprefixer:
         specifier: 10.4.19
         version: 10.4.19(postcss@8.4.38)
-      bcryptjs:
+      /* bcryptjs:
         specifier: ^2.4.3
-        version: 2.4.3
+        version: 2.4.3 */
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
